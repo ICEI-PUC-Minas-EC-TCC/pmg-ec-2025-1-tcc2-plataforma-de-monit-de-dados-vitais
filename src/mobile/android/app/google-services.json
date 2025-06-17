@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "536412330823",
+    "firebase_url": "https://teste1-esp32-89a24-default-rtdb.firebaseio.com",
+    "project_id": "teste1-esp32-89a24",
+    "storage_bucket": "teste1-esp32-89a24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536412330823:android:d5d935cd8f16f9c4f10a62",
+        "android_client_info": {
+          "package_name": "com.company.reactnativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ha6BZN88b70KYcQW4s_N1WK4jzFiR0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536412330823:android:bcb75d8b60473b4ef10a62",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ha6BZN88b70KYcQW4s_N1WK4jzFiR0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536412330823:android:9499bd6c249f85d7f10a62",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ha6BZN88b70KYcQW4s_N1WK4jzFiR0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536412330823:android:3c4c58f4306e9907f10a62",
+        "android_client_info": {
+          "package_name": "com.example.projeto1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ha6BZN88b70KYcQW4s_N1WK4jzFiR0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536412330823:android:532dfe3adbd99392f10a62",
+        "android_client_info": {
+          "package_name": "com.mycompany.firebaseteste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ha6BZN88b70KYcQW4s_N1WK4jzFiR0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536412330823:android:de5ea72c24a01ca5f10a62",
+        "android_client_info": {
+          "package_name": "com.tccmonitor.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Ha6BZN88b70KYcQW4s_N1WK4jzFiR0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
