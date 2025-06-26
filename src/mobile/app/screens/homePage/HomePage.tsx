@@ -64,7 +64,7 @@ export default function HomePage() {
   const handleEmergency = async () => {
     try {
       const response = await fetch(
-        "https://arayamikael1122.app.n8n.cloud/webhook-test/d348cc69-7f6a-4c94-9824-bdf228f533f3"
+        "https://webhookbaleia.flowaitecnologia.shop/webhook/2879d902-3bd8-4f73-aed0-92b6f34377c3"
       );
       if (response.ok) {
         Alert.alert(

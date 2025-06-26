@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// Configuração do Firebase
+// Configuração do Firebase usando variáveis de ambiente
 const firebaseConfig = {
   apiKey: Constants.expoConfig?.extra?.FIREBASE_API_KEY,
   authDomain: Constants.expoConfig?.extra?.FIREBASE_AUTH_DOMAIN,
